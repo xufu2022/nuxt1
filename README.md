@@ -7,8 +7,9 @@
 -   npm run dev
 -   yarn create nuxt-app sample1
 -     
--     Ant Design Vue
-  BalmUI
+  
+Ant Design Vue
+BalmUI
   Bootstrap Vue
   Buefy
   Chakra UI
